@@ -157,16 +157,6 @@ Rekomendasi:
 Sumber data: BMKG dan Open-Meteo
 ```
 
-## ⏰ Jadwal Cron (via OpenClaw)
-
-| Job | Waktu (WITA) | Deskripsi |
-|-----|--------------|-----------|
-| Fishing Forecast Pagi | 05:00 | Forecast harian — fokus ikan |
-| Fishing Report Mamuju | 05:00 | Laporan lengkap ke Telegram |
-| Harga Emas Pagi | 08:00 | Cek harga emas (bonus) |
-| Fishing Forecast Sore | 16:00 | Forecast sore — fokus cumi |
-| Monitor Cumi Mamuju | 17:00, 19:00, 21:00, 23:00 | Monitoring cumi real-time |
-
 ## 📁 Struktur
 
 ```
